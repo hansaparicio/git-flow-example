@@ -1,2 +1,2 @@
 const suma =(a + b)
-return suma 
+return suma = 2
